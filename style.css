@@ -3,3 +3,8 @@ body {background-color: aquamarine;
 
 h1 { text-align: center;
 }
+
+h2 { border-style: solid;
+     border-color: cornflowerblue;
+     border-width: 4px;
+    }
